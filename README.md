@@ -77,8 +77,6 @@ I'm an AI Engineer passionate about merging artificial intelligence with softwar
 
 - 🧠 **Machine Learning with Python** – IBM  
 
-- 🧠 **Advanced Learning Algorithms** – DeepLearning.AI  
-
 - 💡 **Python for Data Science, AI & Development** – IBM  
 
 - 📘 **Database Fundamentals** – MaharaTech  
